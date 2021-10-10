@@ -3,7 +3,7 @@ layout: post
 title:  "Γειά σου Κόσμε!"
 subtitle: " ... και στα ελληνικά!"
 date:   2021-10-09 22:58:17 +0300
-background: 'https://images.app.goo.gl/7jKW9CfwLQ3zgZp26'
+background: https://images.app.goo.gl/7jKW9CfwLQ3zgZp26
 ---
 Εντυπωσιακές εικόνες κατέγραψε η κάμερα του ρόβερ «Curiosity» της NASA από τον πλανήτη Άρη, καθώς κατάφερε να απαθανατίσει την στιγμή που σύννεφα σχηματίζονταν στον ουρανό.
 
